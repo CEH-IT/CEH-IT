@@ -8,7 +8,7 @@ Maintained by the hospital's IT Department, this account serves as a secure owne
 ## 🛡️ Purpose
 
 - 🧩 Manage organization-level settings and access
-- 💾 Act as a backup and recovery owner for `@cityeyehospital-it`
+- 💾 Act as a backup and recovery owner for [City Eye Hospital – IT Department](https://github.com/cityeyehospital-it)
 - 🛠️ Handle billing, permissions, and security configurations
 - 🔐 Ensure compliance with hospital IT and data protection policies
 
