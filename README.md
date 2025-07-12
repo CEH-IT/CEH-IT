@@ -1,72 +1,41 @@
-# 👤 CityEyeIT-Admin – Admin Account for City Eye Hospital GitHub
+# 👋 Welcome to CityEyeIT-Admin
 
-This is the **official GitHub admin and backup account** for the City Eye Hospital GitHub Organization.
-
----
-
-## 🔐 Purpose
-
-The `CityEyeIT-Admin` account exists to:
-- Serve as a **backup owner** of the GitHub organization
-- Manage **organization-level settings**
-- Provide a **recovery option** in case of access loss or emergencies
-- Handle **billing**, **team permissions**, and **org-level configurations**
+This is the official **GitHub admin account** for [City Eye Hospital](https://www.cityeyehospital.or.ke).  
+Maintained by the hospital's IT Department, this account serves as a secure owner and backup for managing the organization on GitHub.
 
 ---
 
-## 🧑‍💻 Account Details
+## 🛡️ Purpose
 
-- **Username:** `CEH-IT`
-- **Email:** `it@cityeyehospital.or.ke`
-- **Display Name:** `CityEyeIT-Admin`
-- **Owner of:** `cityeyehospital` GitHub organization
-- **Maintained by:** City Eye Hospital IT Department
+- 🧩 Manage organization-level settings and access
+- 💾 Act as a backup and recovery owner for `@cityeyehospital-it`
+- 🛠️ Handle billing, permissions, and security configurations
+- 🔐 Ensure compliance with hospital IT and data protection policies
 
 ---
 
 ## 🔐 Security
 
-- **Two-Factor Authentication (2FA):** Enabled ✅
-- **Credentials:** Stored securely in the hospital's official password manager (e.g., Bitwarden, 1Password)
-- **Email Access:** Controlled by the IT Department
-- **Access Level:** Restricted to senior IT staff
+- ✅ Two-Factor Authentication (2FA) is enabled  
+- 🔑 Credentials are securely stored and audited  
+- 📧 Admin contact is managed by the IT Department
 
 ---
 
-## 🚫 Usage Restrictions
+## ⚠️ Usage Notice
 
-This account **must not** be used for:
-- Daily development tasks
-- Pushing code
-- Opening issues or pull requests
-- Participating in repos directly
+This is not a personal or development account.  
+Please do not request code contributions, issue participation, or pull requests from this account.
 
 ---
 
-## 📦 Permissions
+## 📬 Contact
 
-| Feature              | Access Level       |
-|----------------------|--------------------|
-| Organization Settings| Full Admin         |
-| Repositories         | Admin (as needed)  |
-| Billing              | Full Access        |
-| Team Management      | Admin              |
-
----
-
-## 📞 Contact
-
-For support or escalation, contact:
+If you need to reach the IT team regarding GitHub organization access or security concerns:
 
 📧 **it@cityeyehospital.or.ke**  
-📞 **Extension 1035 – IT Help Desk**
+🌐 [www.cityeyehospital.or.ke](https://www.cityeyehospital.or.ke)
 
 ---
 
-## 🛠️ Maintenance Checklist
-
-- 🔄 **Password Rotation:** Every 6 months
-- ✅ **2FA Device Review:** Quarterly
-- 📁 **Recovery Codes:** Stored in encrypted password manager
-- 📋 **Access Audit:** Reviewed every quarter
-- 📧 **Admin Email:** Actively monitored by IT
+> © City Eye Hospital IT Department · All rights reserved.
